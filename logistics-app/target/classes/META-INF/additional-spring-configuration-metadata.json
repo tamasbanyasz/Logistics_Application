@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "delay.income.decrease.thresholds",
+    "type": "java.lang.String",
+    "description": "A description for 'delay.income.decrease.thresholds'"
+  },
+  {
+    "name": "delay.income.decrease.percentages",
+    "type": "java.lang.String",
+    "description": "A description for 'delay.income.decrease.percentages'"
+  }
+]}
